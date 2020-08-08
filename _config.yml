@@ -1,8 +1,8 @@
 # Setup
 title:               Earlout
-tagline:             'devblog'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://devblog.earlout.com
+tagline:             'blog'
+description:         Earlout's blog
+url:                 http://blog.earlout.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
